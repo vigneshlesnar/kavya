@@ -16,6 +16,35 @@
 
 </head>
 <body>
+
+<style>
+    body {
+  background-color: #fff ;
+}
+
+.box {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  margin: 20px auto;
+}
+p{
+    padding:15px;
+}
+
+.box h1 {
+  text-align: center;
+  margin: 0;
+  line-height: 100px;
+}
+
+/* effect 1 */
+.effect1{
+	-webkit-box-shadow: 0 10px 6px -6px #777;
+	   -moz-box-shadow: 0 10px 6px -6px #777;
+	        box-shadow: 0 10px 6px -6px #777;
+}
+</style>
     <h1 style="text-align:center;font-weight:600;"><span style="color:#02b4eb;">V</span>ision</h1>
     <div class="container">
         <div class="row">
@@ -26,6 +55,7 @@
 
             <!-- </div> -->
             <!-- <div class="col-sm-4"> -->
+            <div class="box effect1">
                 <p style="font-size:16px; text-align:justify;font-weight:500;">
                     Kavya Transports is engaged in
                     providing qualitative Transportation logistics services
@@ -40,6 +70,7 @@
                     of its services.
 
                 </p>
+                </div>
             </div>
 
         </div>

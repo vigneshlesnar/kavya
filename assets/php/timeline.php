@@ -15,8 +15,7 @@
                          <h1 style="text-align:center;font-weight:600;"><span style="color:#02b4eb;">T</span>ime-Line</h1>  
 					</div>
 
-<div class="container" style="background-color: #b8c6db;
-background-image: linear-gradient(315deg, #d1d8e3 0%, #f5f7fa 74%);">
+<div class="container" style="background-color: #d9d9d9;">
     		<!-- <div class="row"> -->
 				<div >
 					
