@@ -59,7 +59,7 @@ nav ul {
 }
 
 nav.black ul {
-      background: #11cff5;
+      background: #02b4eb;
 }
 
 nav ul li {
@@ -95,11 +95,11 @@ nav ul li a {
 
       nav ul {
             max-height: 0px;
-            background: #11cff5;
+            background: #02b4eb;
       }
 
       nav.black ul {
-            background: #11cff5;
+            background: #02b4eb;
       }
 
       .showing {

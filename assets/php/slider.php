@@ -32,15 +32,15 @@ because it requires specific images, where more than 50% of bg is transparent or
           <div class="fnc-slide__content">
             <h2 class="fnc-slide__heading">
               <div class="fnc-slide__heading-line">
-                <span>Black</span>
+                <span>Truck</span>
               </div>
               <div class="fnc-slide__heading-line">
-                <span>Widow</span>
+                <span>Transport</span>
               </div>
             </h2>
             <button type="button" class="fnc-slide__action-btn">
               Credits
-              <span data-text="Credits">Credits</span>
+              <!-- <span data-text="Credits">Credits</span> -->
             </button>
           </div>
         </div>
@@ -55,15 +55,15 @@ because it requires specific images, where more than 50% of bg is transparent or
           <div class="fnc-slide__content">
             <h2 class="fnc-slide__heading">
               <div class="fnc-slide__heading-line">
-                <span>Captain</span>
+                <span>Container</span>
               </div>
               <div class="fnc-slide__heading-line">
-                <span>America</span>
+                <span>Transport</span>
               </div>
             </h2>
             <button type="button" class="fnc-slide__action-btn">
               Credits
-              <span data-text="Credits">Credits</span>
+              <!-- <span data-text="Credits">Credits</span> -->
             </button>
           </div>
         </div>
@@ -78,20 +78,22 @@ because it requires specific images, where more than 50% of bg is transparent or
           <div class="fnc-slide__content">
             <h2 class="fnc-slide__heading">
               <div class="fnc-slide__heading-line">
-                <span>Iron</span>
+                <span>Air</span>
               </div>
               <div class="fnc-slide__heading-line">
-                <span>Man</span>
+                <span>Freight</span>
               </div>
             </h2>
             <button type="button" class="fnc-slide__action-btn">
               Credits
-              <span data-text="Credits">Credits</span>
+              <!-- <span data-text="Credits">Credits</span> -->
             </button>
           </div>
         </div>
       </div>
       <!-- slide end -->
+
+      
       <!-- slide start -->
       <div class="fnc-slide m--blend-blue">
         <div class="fnc-slide__inner">
@@ -101,20 +103,21 @@ because it requires specific images, where more than 50% of bg is transparent or
           <div class="fnc-slide__content">
             <h2 class="fnc-slide__heading">
               <div class="fnc-slide__heading-line">
-                <span>Thor</span>
+                <span>LCV</span>
               </div>
               <div class="fnc-slide__heading-line">
-                <span>Just Thor</span>
+                <span>trucks</span>
               </div>
             </h2>
             <button type="button" class="fnc-slide__action-btn">
               Credits
-              <span data-text="Credits">Credits</span>
+              <!-- <span data-text="Credits">Credits</span> -->
             </button>
           </div>
         </div>
       </div>
       <!-- slide end -->
+
     </div>
     <nav class="fnc-nav">
       <div class="fnc-nav__bgs">
@@ -125,19 +128,19 @@ because it requires specific images, where more than 50% of bg is transparent or
       </div>
       <div class="fnc-nav__controls">
         <button class="fnc-nav__control">
-          Black Widow
+          TRUCK TRANSPORT
           <span class="fnc-nav__control-progress"></span>
         </button>
         <button class="fnc-nav__control">
-          Captain America
+          CONTAINER TRANSPORT
           <span class="fnc-nav__control-progress"></span>
         </button>
         <button class="fnc-nav__control">
-          Iron Man
+          AIR FREIGHT
           <span class="fnc-nav__control-progress"></span>
         </button>
         <button class="fnc-nav__control">
-          Thor
+          LCV TRUCK
           <span class="fnc-nav__control-progress"></span>
         </button>
       </div>
