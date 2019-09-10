@@ -26,10 +26,10 @@
                         <div class="menu">
                               <ul>
                                     <li><a href="#">Home</a></li>
-                                    <li><a href="#">Vision</a></li>
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Clients</a></li>
+                                    <li><a href="#vis">Vision</a></li>
+                                    <li><a href="#abo">About Us</a></li>
+                                    <li><a href="#ser">Services</a></li>
+                                    <li><a href="#cli">Clients</a></li>
                                     <li><a href="#">Contact</a></li>
                               </ul>
                         </div>

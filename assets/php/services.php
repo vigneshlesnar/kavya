@@ -8,18 +8,23 @@
       <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
       <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
       <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-      <title>Document</title>
+      <script>
+        var shiftWindow = function() { scrollBy(0, -50) };
+        window.addEventListener("hashchange", shiftWindow);
+        function load() { if (window.location.hash) shiftWindow(); }
+    </script>
+      <title>Services</title>
    </head>
-   <body>
-      <style>
-        
-      </style>
-      <div class="page-heade">
+   <body onload="load()">
+   <section id="ser"></section>
+      <section >
+      <div class="page-heade" >
         <br>
          <h1 style="text-align:center;font-weight:600;"><span style="color:#02b4eb;">O</span>ur services</h1>
       </div>
       <div class="col">
       <div class="row">
+         
          <div class="container">
             <div class="col-sm-12">
                <div class="col-sm-3">
@@ -207,5 +212,8 @@
             </div>
          </div>
       </div>
+      <script></script>
+      </section>
+      
    </body>
 </html>

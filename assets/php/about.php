@@ -36,7 +36,7 @@ p{
 }
 </style>
 
-
+<section id="abo">
 <div class="container" >
                 <h1 style="text-align:center;font-weight:600;"><span style="color:#02b4eb;">A</span>bout us</h1>
                 <div class="box effect1">
@@ -48,6 +48,9 @@ p{
                     </p>
                 </div>
 </div>
+  
+</section>
+
                 
 </body>
 </html>

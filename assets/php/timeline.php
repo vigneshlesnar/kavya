@@ -1,187 +1,172 @@
-<!DOCTYPE html>
-<html lang="en">
+
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/timeline.css">
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-    <title>Timeline</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/timeline.css">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <title>Document</title>
 </head>
 <body>
-<div class="page-heade">
-                         <h1 style="text-align:center;font-weight:600;"><span style="color:#02b4eb;">T</span>ime-Line</h1>  
-					</div>
-
-<div class="container" style="background-color: #d9d9d9;">
-    		<!-- <div class="row"> -->
-				<div >
-					
-					<div style="display:inline-block;width:100%;overflow-y:auto;">
-					<ul class="timeline timeline-horizontal">
-						<li class="timeline-item">
-							<div class="timeline-badge success"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">2004</h4>
-									<!-- <small><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p> -->
-								</div>
-								<div class="timeline-body">
-									<p>Started as a Fleet operator.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge success"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">2007</h4>
-									<!-- <small><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p> -->
-								</div>
-								<div class="timeline-body">
-									<p>Entered into Kavya Travels.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge success"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">2011</h4>
-									<!-- <small><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p> -->
-								</div>
-								<div class="timeline-body">
-									<p>increase the Fleet strength.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge success"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">2015</h4>
-									<!-- <small><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p> -->
-								</div>
-								<div class="timeline-body">
-									<p>TN72 Office Head office.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge success"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">2016</h4>
-									<!-- <small><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p> -->
-								</div>
-								<div class="timeline-body">
-									<p>TN37 Office Branch.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge success"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">2017</h4>
-									<!-- <small><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p> -->
-								</div>
-								<div class="timeline-body">
-									<p>TN72 Office Started as a Transport Contractor.</p>
-								</div>
-							</div>
-                        </li>
-                        <li class="timeline-item">
-							<div class="timeline-badge success"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">2017-2018</h4>
-									<!-- <small><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p> -->
-								</div>
-								<div class="timeline-body">
-									<p>TN01 Office Branch.</p>
-								</div>
-							</div>
-                        </li>
-                        <li class="timeline-item">
-							<div class="timeline-badge success"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">2018</h4>
-									<!-- <small><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p> -->
-								</div>
-								<div class="timeline-body">
-									<p>TN37 Office Started as a Transport Contractor.</p>
-								</div>
-							</div>
-						</li>
-					</ul>
-				</div>
-                </div>
-                
-			<!-- </div> -->
-			<!-- <div class="row">
-				<div class="col-md-12">
-					<div class="page-header">
-					  <h1>Timeline</h1>
-					</div>
-					<ul class="timeline">
-						<li class="timeline-item">
-							<div class="timeline-badge"><i class="glyphicon glyphicon-off"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 1</h4>
-									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 2</h4>
-									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros gostis.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 3</h4>
-									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-									
-								</div>
-							</div>
-						</li>
-						<li class="timeline-item">
-							<div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">Mussum ipsum cacilds 4</h4>
-									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-								</div>
-								<div class="timeline-body">
-									<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-								</div>
-							</div>
-						</li>
-					</ul>
-				</div>
-			</div> -->
-		</div>
+<section id="time"> 
+  <div class="page-heade" >
+        <br>
+         <h1 style="text-align:center;font-weight:600;"><span style="color:#02b4eb;">T</span>ime line</h1>
+      </div>
+<div class="container" style="background-color: #fff;">
+  
+  <ul class="timeline">
+    <li>
+      <div class="timeline-badge primary">
+        <i class="fa fa-calendar"></i>
+      </div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h3 class="timeline-title">2004</h3>
+          <p>
+            <!-- <small class="text-muted">
+              <i class="2017"></i>
+              11 hours ago via The Nature Boy
+              </small> -->
+          </p>
+        </div>
+        <div class="timeline-body">
+          <p class="pp">Started as a Fleet operator</p>
+          <a href="http:ubh.com"></a>
+        </div>
+      </div>
+    </li>
+    <li class="timeline-inverted">
+      <div class="timeline-badge success">
+        <i class="fa fa-calendar"></i>
+      </div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h3 class="timeline-title">2007</h3>
+          <p>
+            <!-- <small class="text-muted">
+              <i class="fa fa-clock-o"></i>
+              10 hours ago via Roddy Piper</small> -->
+          </p>
+        </div>
+        <div class="timeline-body">
+          <p class="pp">Entered into Kavya Travels</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="timeline-badge danger">
+        <i class="fa fa-calendar"></i>
+      </div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h3 class="timeline-title">2011</h3>
+          <p>
+            <!-- <small class="text-muted">
+              <i class="fa fa-clock-o"></i></i> 2 days ago via Rick Martel</small> -->
+          </p>
+        </div>
+        <div class="timeline-body">
+          <p class="pp">increase the Fleet strength </p>
+        </div>
+      </div>
+    </li>
+    <li class="timeline-inverted">
+      <div class="timeline-badge warning">
+        <i class="fa fa-calendar"></i>
+      </div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h3 class="timeline-title">2015</h3>
+          <p>
+            <!-- <small class="text-muted">
+              <i class="glyphicon glyphicon-time"></i> 3 days ago via Adrian Adonis</small> -->
+          </p>
+        </div>
+        <div class="timeline-body">
+          <p class="pp">TN72 Office Head office</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="timeline-badge info">
+        <i class="fa fa-calendar"></i></div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h3 class="timeline-title">2016</h3>
+          <p>
+            <!-- <small class="text-muted">
+              <i class="glyphicon glyphicon-time"></i> 4 days ago via Bob Orton</small> -->
+          </p>
+        </div>
+        <div class="timeline-body">
+          <p class="pp">TN37 Office Branch</p>
+        </div>
+      </div>
+    </li>
+    <li class="timeline-inverted">
+      <div class="timeline-badge success">
+        <i class="fa fa-calendar"></i></div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h3 class="timeline-title">2017</h3>
+          <p>
+            <!-- <small class="text-muted">
+              <i class="glyphicon glyphicon-time"></i> 5 months ago via Randy Savage</small> -->
+          </p>
+        </div>
+        <div class="timeline-body">
+          <p class="pp">TN72 Office Started as a Transport Contractor</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="timeline-badge danger">
+        <i class="fa fa-calendar"></i></div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h3 class="timeline-title">2017-2018</h3>
+          <p>
+            <!-- <small class="text-muted">
+              <i class="glyphicon glyphicon-time"></i> 4 days ago via Bob Orton</small> -->
+          </p>
+        </div>
+        <div class="timeline-body">
+          <p class="pp">TN01 Office Branch</p>
+        </div>
+      </div>
+    </li>
+    <li class="timeline-inverted">
+      <div class="timeline-badge primary">
+        <i class="fa fa-calendar"></i></div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h3 class="timeline-title">2018</h3>
+          <p>
+            <!-- <small class="text-muted">
+              <i class="glyphicon glyphicon-time"></i> 5 months ago via Randy Savage</small> -->
+          </p>
+        </div>
+        <div class="timeline-body">
+          <p class="pp">TN37 Office Started as a Transport Contractor</p>
+        </div>
+      </div>
+    </li>
     
+  </ul>
+</div>
+</div>
+</section>
+
 </body>
 </html>

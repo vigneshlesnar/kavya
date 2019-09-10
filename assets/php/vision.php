@@ -12,10 +12,15 @@
 
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script>
+        var navbar = function() { scrollBy(0, -50) };
+        window.addEventListener("hashchange", navbar);
+        function load() { if (window.location.hash) navbar(); }
+    </script>
     <title>VISION</title>
 
 </head>
-<body>
+<body onload="load()">
 
 <style>
     body {
@@ -45,7 +50,9 @@ p{
 	        box-shadow: 0 10px 6px -6px #777;
 }
 </style>
-    <h1 style="text-align:center;font-weight:600;"><span style="color:#02b4eb;">V</span>ision</h1>
+<br>
+<section id="vis">
+<h1 style="text-align:center;font-weight:600;"><span style="color:#02b4eb;">V</span>ision</h1>
     <div class="container">
         <div class="row">
         <div class="col">
@@ -77,6 +84,9 @@ p{
         </div>
         </div>
     </div>
+    
+
+</section>
     
 </body>
 </html>
