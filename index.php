@@ -52,6 +52,9 @@
         <div style="background-color:#fff;">
               <?php include('assets/php/timeline.php')?>
         </div>
+        
+        <!-- Clents -->
+        <?php include('assets/php/contact.php')?>
     
 </body>
 </html>

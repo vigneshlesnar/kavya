@@ -30,7 +30,7 @@
                                     <li><a href="#abo">About Us</a></li>
                                     <li><a href="#ser">Services</a></li>
                                     <li><a href="#cli">Clients</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li><a href="#cont">Contact</a></li>
                               </ul>
                         </div>
                   </nav>
