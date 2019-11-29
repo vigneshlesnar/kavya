@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>KAVYA</title>
+      <title>KAVYA TRANSPORT</title>
       <link rel="stylesheet" href="css/style.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
       <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
@@ -20,16 +20,14 @@
                         </div>
 
                         <div class="logo">
-                              KAVYA
+                              KAVYA TRANSPORT
                         </div>
 
                         <div class="menu">
                               <ul>
                                     <li><a href="#">Home</a></li>
                                     <li><a href="#vis">Vision</a></li>
-                                    <li><a href="#abo">About Us</a></li>
                                     <li><a href="#ser">Services</a></li>
-                                    <li><a href="#cli">Clients</a></li>
                                     <li><a href="#cont">Contact</a></li>
                               </ul>
                         </div>

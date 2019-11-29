@@ -32,10 +32,10 @@ because it requires specific images, where more than 50% of bg is transparent or
           <div class="fnc-slide__content">
             <h2 class="fnc-slide__heading">
               <div class="fnc-slide__heading-line">
-                <span>Truck</span>
+                <span>LCV</span>
               </div>
               <div class="fnc-slide__heading-line">
-                <span>Transport</span>
+                <span>HCV</span>
               </div>
             </h2>
             <button type="button" class="fnc-slide__action-btn">
@@ -128,19 +128,19 @@ because it requires specific images, where more than 50% of bg is transparent or
       </div>
       <div class="fnc-nav__controls">
         <button class="fnc-nav__control">
-          TRUCK TRANSPORT
+          TRUCK SERVICE
           <span class="fnc-nav__control-progress"></span>
         </button>
         <button class="fnc-nav__control">
-          CONTAINER TRANSPORT
+          WAREHOUSE
           <span class="fnc-nav__control-progress"></span>
         </button>
         <button class="fnc-nav__control">
-          AIR FREIGHT
+          AIR,SEA CONNECTIVE SERVICES
           <span class="fnc-nav__control-progress"></span>
         </button>
         <button class="fnc-nav__control">
-          LCV TRUCK
+          UNSKILLED MANPOWER SERVICES
           <span class="fnc-nav__control-progress"></span>
         </button>
       </div>
