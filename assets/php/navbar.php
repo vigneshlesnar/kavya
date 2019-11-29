@@ -20,7 +20,7 @@
                         </div>
 
                         <div class="logo">
-                              KAVYA TRANSPORT
+                              <img src="logo/kavyalogo.png" alt="" style="width:100px;height: 80px;margin-top: -5px;">
                         </div>
 
                         <div class="menu">
