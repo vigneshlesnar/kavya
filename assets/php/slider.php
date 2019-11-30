@@ -127,19 +127,19 @@ because it requires specific images, where more than 50% of bg is transparent or
         <div class="fnc-nav__bg m--navbg-blue"></div>
       </div>
       <div class="fnc-nav__controls">
-        <button class="fnc-nav__control">
+        <button class="fnc-nav__control" style="width: 416px;">
           TRUCK SERVICE
           <span class="fnc-nav__control-progress"></span>
         </button>
-        <button class="fnc-nav__control">
+        <button class="fnc-nav__control" style="width: 416px;">
           WAREHOUSE
           <span class="fnc-nav__control-progress"></span>
         </button>
-        <button class="fnc-nav__control">
+        <button class="fnc-nav__control" style="width: 416px;">
           AIR,SEA CONNECTIVE SERVICES
           <span class="fnc-nav__control-progress"></span>
         </button>
-        <button class="fnc-nav__control">
+        <button class="fnc-nav__control" style="width: 416px;">
           UNSKILLED MANPOWER SERVICES
           <span class="fnc-nav__control-progress"></span>
         </button>
